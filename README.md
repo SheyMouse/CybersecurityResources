@@ -2,7 +2,7 @@
  A collection of resources for learning cybersecurity
 
 * [Podcasts](*podcasts)
-* [Videos](*videos)
+* [Videos](*Videos)
 
 
  ## Podcasts
