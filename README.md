@@ -1,8 +1,8 @@
 # CybersecurityResources
  A collection of resources for learning cybersecurity
 
-* [Podcasts](*podcasts)
-* [Videos](*videos)
+* [Podcasts](#podcasts)
+* [Videos](#videos)
 
 
 ## Podcasts
